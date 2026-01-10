@@ -1,6 +1,6 @@
 # 🐱 Cat Fact Generator
 
-## [Live @]()
+## [Live @](https://react-catfact-api-proj-05.vercel.app/)
 
 ## 📋 Overview
 
@@ -50,8 +50,7 @@ src/
 
 #### 1.Clone the repository
 ```
-git clone 
-
+git clone https://github.com/Aromalpriyan/React-Catfact-API-Proj-05
 ```
 
 #### 2.Navigate to the project directory
@@ -83,5 +82,5 @@ https://catfact.ninja/fact
 ## 👨‍💻 Author
 #### Aromal Priyan
 <ul>
-<li>GitHub : </li>
+<li>GitHub : https://github.com/Aromalpriyan/React-Catfact-API-Proj-05</li>
 </ul>
