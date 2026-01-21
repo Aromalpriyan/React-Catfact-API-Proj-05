@@ -67,6 +67,10 @@ npm install
 ```
 npm run dev
 ```
+#### The app will run at:
+```
+http://localhost:5173/
+```
 
 ## 🔗 API Used
 <ul>
